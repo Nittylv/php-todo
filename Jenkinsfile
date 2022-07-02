@@ -28,5 +28,3 @@ pipeline {
     }
   }
 }
-sudo vi /etc/mysql/conf.d
-conf.d/mysqld.cnf
